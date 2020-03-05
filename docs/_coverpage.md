@@ -2,10 +2,11 @@
 
 # Faster-Admin
 
-> 高效的后台管理快速开发框架
+> 一款后台管理快速开发框架
 
+- 前端后分离
 - 基于Faster-Framework
-- 集成SpringBoot+Mybatis+Antd
+- SpringBoot+Mybatis+Antd
 - 开箱即用、零配置、代码生成
 
 [GitHub](https://github.com/faster-framework/faster-framework-admin-api)
